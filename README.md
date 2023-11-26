@@ -20,7 +20,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#business-case">Description</a></li>
+        <li><a href="#description">Description</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
